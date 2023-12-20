@@ -35,12 +35,39 @@ For PseudoMD-1M, we have open-sourced it in [huggingface](https://huggingface.co
 
 For DrugBank-23, we are currently reviewing the licencse of raw data from [DrugBank](https://go.drugbank.com/), to ensure compliance with their policies. We will release it later.
 
+### Environments
+Our key dependencies are as follows:
+| Package | Version |
+| ---- | ---- |
+| torch | 2.0.1 |
+| transformers | 4.31.0 |
+| python | 3.11.4 |
+| numpy | 1.24.3 |
+| pandas | 2.0.3 |
+| rdkit | 2023.3.2 |
+
+We also provide the yml file of our conda environment. You can rebuild the environment using 
+```
+conda env create -f environment.yml
+```
+
 ### Pre-training
 
 Our code, built on PyTorch and transformers, is simple and customizable, involving no complex frameworks or trainers.
-First, navigate to the 'pretrain' directory by running the command `cd pretrain`.
+First, navigate to the 'pretrain' directory by running the command 
+```
+cd pretrain
+```
 
-Then, the simplest launching command is `python run.py` or `./run.sh`. The latter command will launch the training exactly the same way we train ada-t5. As shown in below:
+Then, the simplest launching command is 
+```
+python run.py
+```
+or
+```
+./run.sh
+```
+The latter command will launch the training exactly the same way we train ada-t5. As shown in below:
 | Parameters | N |
 | ---- | ----|
 | Training Steps | 100,000|
@@ -54,8 +81,19 @@ Then, the simplest launching command is `python run.py` or `./run.sh`. The latte
 If you want to customize hyperparameters, just append them to `python run.py` or modify `run.sh`. You can refer to `myparser.py`, which contains all hyperparameters we use and has been well organized into groups.
 
 ### Fine-tuning
-First, navigate to the 'finetune' directory by running the command `cd finetune`.
-Similar to pre-training, the simplest launching command is `python run.py` or `./run.sh`. The latter command will launch the training exactly the same way we use. As shown in below:
+First, navigate to the 'finetune' directory by running the command 
+```
+cd finetune
+```
+Similar to pre-training, the simplest launching command is 
+```
+python run.py
+```
+or
+```
+./run.sh
+```
+The latter command will launch the training exactly the same way we use. As shown in below:
 | Parameters | N |
 | ---- | ----|
 | Training Steps | 50,000|
