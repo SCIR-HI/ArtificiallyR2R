@@ -1,0 +1,22 @@
+[
+    {
+        "smiles": "C[C@]12CCC(=O)C=C1CC[C@@H]3[C@@H]2C(=O)C[C@]\\\\4([C@H]3CC/C4=C/C(=O)OC)C",
+        "description": "The molecule is a steroid ester that is methyl (17E)-pregna-4,17-dien-21-oate substituted by oxo groups at positions 3 and 11. It is a 3-oxo-Delta(4) steroid, an 11-oxo steroid, a steroid ester and a methyl ester. It derives from a hydride of a pregnane."
+    },
+    {
+        "smiles": "C[C@H]1[C@H]([C@H]([C@@H]([C@@H](O1)OC[C@@H]2[C@H]([C@@H]([C@H]([C@@H](O2)O)NC(=O)C)O[C@H]3[C@H]([C@@H]([C@@H]([C@@H](O3)C)O)O)O)O[C@H]4[C@@H]([C@H]([C@@H]([C@H](O4)CO)O)O)NC(=O)C)O)O)O",
+        "description": "The molecule is a branched amino tetrasaccharide consisting of N-acetyl-beta-D-glucosamine having two alpha-L-fucosyl residues at the 3- and 6-positions as well as an N-acetyl-beta-D-glucosaminyl residue at the 4-position. It has a role as a carbohydrate allergen. It is a glucosamine oligosaccharide and an amino tetrasaccharide. It derives from an alpha-L-Fucp-(1->3)-[alpha-L-Fucp-(1->6)]-beta-D-GlcpNAc."
+    },
+    {
+        "smiles": "COC1=CC=CC2=C1C(=CN2)C/C(=N/OS(=O)(=O)[O-])/S[C@H]3[C@@H]([C@H]([C@@H]([C@H](O3)CO)O)O)O",
+        "description": "The molecule is an indolylmethylglucosinolate that is the conjugate base of 4-methoxyglucobrassicin, obtained by deprotonation of the sulfo group. It is a conjugate base of a 4-methoxyglucobrassicin."
+    },
+    {
+        "smiles": "CN(C)C(=O)C(CCN1CCC(CC1)(C2=CC=C(C=C2)Cl)O)(C3=CC=CC=C3)C4=CC=CC=C4",
+        "description": "The molecule is a synthetic piperidine derivative, effective against diarrhoea resulting from gastroenteritis or inflammatory bowel disease. It has a role as a mu-opioid receptor agonist, an antidiarrhoeal drug and an anticoronaviral agent. It is a member of piperidines, a monocarboxylic acid amide, a member of monochlorobenzenes and a tertiary alcohol. It is a conjugate base of a loperamide(1+)."
+    },
+    {
+        "smiles": "CC1=C(SC(=[N+]1CC2=CN=C(N=C2N)C)C(CCC(=O)O)O)CCOP(=O)(O)OP(=O)(O)O",
+        "description": "The molecule is a 1,3-thiazolium cation that is 1,3-thiazol-3-ium substituted by a methyl group at position 4, a (4-amino-2-methylpyrimidin-5-yl)methyl group at position 3, a 3-carboxy-1-hydroxypropyl at position 2 and a 2-{[hydroxy(phosphonooxy)phosphoryl]oxy}ethyl group at position 5. It has a role as a human metabolite and a mouse metabolite."
+    }
+]

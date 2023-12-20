@@ -1,0 +1,22 @@
+[
+    {
+        "smiles": "CC(C)CC(=O)OC1C(C(C(OC1OC2CC(C3CC[C@@]45CC(CCC4[C@@]3(C2)C)C(=C)C5O)C(=O)O)CO)OS(=O)(=O)[O-])OS(=O)(=O)[O-].[K+].[K+]",
+        "description": "A glycoside of a kaurene type diterpene that is found in some plants including Atractylis gummifera (ATRACTYLIS); COFFEE; XANTHIUM, and CALLILEPIS. Toxicity is due to inhibition of ADENINE NUCLEOTIDE TRANSLOCASE."
+    },
+    {
+        "smiles": "C1CC(C2=CC=CC=C2C1)C3=NCCN3",
+        "description": "it is a member of imidazolines and a carboxamidine. It has a role as a sympathomimetic agent and a nasal decongestant. It is a conjugate base of a ite(1+). it is an imidazole derivative with sympathomimetic activity. Applied locally to the eye or nose, it binds to and activates alpha-adrenergic receptors, resulting in vasoconstriction and decreased nasal and ophthalmic congestion."
+    },
+    {
+        "smiles": "COC1=CC=C(C=C1)C2=C(C(=O)C3=C(O2)C=C(C(=C3O)OC)O)OC",
+        "description": "it is a trimethoxyflavone that is flavone substituted by methoxy groups at positions 3, 6 and 4' and hydroxy groups at positions 5 and 7 respectively. It has a role as a plant metabolite. It is a trimethoxyflavone and a dihydroxyflavone. It derives from a flavone."
+    },
+    {
+        "smiles": "CC(C)C1=NN2C=CC=CC2=C1C(=O)C(C)C",
+        "description": "it is an orally bioavailable inhibitor of cyclic nucleotide phosphodiesterase (PDE), mainly PDE-3, -4, -10, and -11, with anti-(neuro)inflammatory, vasorelaxant, bronchodilator, analgesic, neuroprotective and potential anti-tumor activities. it (IBD) is able to cross the blood-brain barrier (BBB). Upon administration, IBD exerts its potential anti-tumor activity against glioblastoma multiforme (GBM) cells by inhibiting PDE-4 and the pro-inflammatory cytokine macrophage migration inhibitory factor (MIF), which results in a decrease in MIF, its receptor CD74, and AKT expression, and attenuates the immunosuppressive properties of monocytic myeloid-derived suppressor cells (MDSCs) and reduces T-regulatory cells (Tregs). This causes GBM cell apoptosis and inhibits GBM cell proliferation. In addition, IBD reduces, through its inhibitory effect on various PDEs, the production of certain pro-inflammatory cytokines, such as interleukin-6 (IL-6), IL- 1beta, leukotriene B4, and tumor necrosis factor-alpha (TNF-a). IBD also upregulates the anti-inflammatory cytokine (IL-10), and promotes the production of neurotrophic factors, such as brain-derived neurotrophic factor (BDNF), nerve growth factor (NGF), and neurotrophin-4 (NT-4). It also blocks toll-like receptor-4 (TLR-4), inhibits nitric oxide (NO) synthesis and reduces the level of reactive oxygen species (ROS). It also prevents platelet aggregation, causes cerebral vasodilation, bronchial smooth muscle relaxation, and improves cerebral blood flow. In addition, IBD attenuates the PDE-mediated activation of glial cells and abrogates PDE-mediated neuroinflammation and neurodegeneration. MIF is secreted by cancer stem cells (CSCs) and is highly expressed within GBM and plays a key role in tumor cell proliferation. Co-expression of MIF and CD74 in GBM is associated with poor patient survival."
+    },
+    {
+        "smiles": "CCCCOC(=O)C1=CC=CC=C1N",
+        "description": "it is a dark brown liquid. Insoluble in water. (NTP, 1992) it is a benzoate ester obtained by formal condensation of the carboxy group of anthranilic acid with the hydroxy group of butanol. Found in several fruit species, it is used as a flavouring and fragrance agent and also exhibits insect repellent properties. It has a role as a flavouring agent, an insect repellent, a fragrance and a plant metabolite. It is a benzoate ester and a substituted aniline. It derives from an anthranilic acid and a butan-1-ol."
+    }
+]

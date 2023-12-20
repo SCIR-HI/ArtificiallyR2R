@@ -1,0 +1,26 @@
+[
+    {
+        "smiles": "C1=CC(=CC(=C1)[N+](=O)[O-])C2=NOC(=N2)CCCC(=O)O",
+        "description": "The molecule is a 1,2,4-oxadiazole, a C-nitro compound and a monocarboxylic acid. It is functionally related to a butyric acid."
+    },
+    {
+        "smiles": "CCCCCCCCCCCCCCCC(=O)OCC(COP(=O)(O)OP(=O)(O)OCC1C(C(C(O1)N2C=CC(=NC2=O)N)O)O)OC(=O)CCCCCCCCCCCCCCC",
+        "description": "The molecule is CDP-dipalmitoyl-sn-glycerol. It is a CDP-diacylglycerol in which both of the phosphatidyl acyl groups are specified as palmitoyl hexadecanoyl. It has a role as a Mycoplasma genitalium metabolite. It derives from a hexadecanoic acid."
+    },
+    {
+        "smiles": "CCOC(=O)C(CCSC)N",
+        "description": "The molecule is Methionine ethyl ester. It is an L-methionine derivative that is the ester obtained by formal condensation of the carboxy group of L-methionine with ethanol. It has a role as a potassium channel blocker. It is an alpha-amino acid ester and a L-methionine derivative."
+    },
+    {
+        "smiles": "C(C(C(C(=O)COP(=O)([O-])[O-])O)O)C(=O)[O-]",
+        "description": "The molecule is 6-phospho-5-dehydro-2-deoxy-D-gluconate. It is trianion of 6-phospho-5-dehydro-2-deoxy-D-gluconic acid arising from deprotonation of the carboxy and phosphate groups major species at pH 7.3. It is an organophosphate oxoanion, a 5-oxo monocarboxylic acid anion and a hydroxy monocarboxylic acid anion. It is a conjugate base of a 6-phospho-5-dehydro-2-deoxy-D-gluconic acid."
+    },
+    {
+        "smiles": "CC12CCC3C(C1CC(C2=O)O)CCC4=C3C=CC(=C4)OC5C(C(C(C(O5)C(=O)O)O)O)O",
+        "description": "The molecule is 16alpha-hydroxyestrone 3-O-beta-D-glucuronide. It is a steroid glucosiduronic acid that is 16alpha-hydroxyestrone in which the phenolic hydrogen has been replaced by a beta-D-glucuronyl residue. It is a steroid glucosiduronic acid, a 16alpha-hydroxy steroid, a 17-oxo steroid, a beta-D-glucosiduronic acid and a secondary alpha-hydroxy ketone. It derives from a 16alpha-hydroxyestrone."
+    },
+    {
+        "smiles": "CCCC(=O)C1=C(C(=C(C(=C1O)CC2=C(C(C(=O)C(=C2O)C(=O)C)(C)CC=C(C)CCC=C(C)C)O)O)CC=C(C)C)O",
+        "description": "The molecule is Yungensin D. It is a carboxylic ester. It has a role as a metabolite. It derives from a phloroglucinol."
+    }
+]

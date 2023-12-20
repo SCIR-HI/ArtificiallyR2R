@@ -1,0 +1,22 @@
+[
+    {
+        "smiles": "CC12CCC3C(=CCC4=C3C=CC(=C4)O)C1CCC2O",
+        "description": "The molecule is 17beta-Dihydroequilin. It is a 3-hydroxy steroid that is obtained by formal dehydrogenation across positions 7 and 8 of 17beta-estradiol. It has a role as a metabolite. It is a 17beta-hydroxy steroid and a 3-hydroxy steroid. It derives from an androstane."
+    },
+    {
+        "smiles": "C[N+](=NCO)[O-]",
+        "description": "The molecule is Filimarisin. It is a macrolide that is the major component of a mixture of four isomeric polyene macrolides isolated from Streptomyces filipinensis. It has a role as a bacterial metabolite and a fluorescent probe. It is a macrolide, a polyol and an olefinic compound."
+    },
+    {
+        "smiles": "CCC(C[SnH3])O",
+        "description": "The molecule is 1-Stannylbutan-2-ol. It is a It carrying no other substituents on the tin atom. It derives from a hydride of a butylstannane."
+    },
+    {
+        "smiles": "C(C1C(C(C(O1)[NH+]=C(CNC=O)N)O)O)OP(=O)([O-])[O-]",
+        "description": "The molecule is 2-Deoxymugineate. It is conjugate base of 2-deoxymugineic acid. It is a tricarboxylic acid trianion and an amino acid zwitterion. It is a conjugate base of a 2-deoxymugineic acid."
+    },
+    {
+        "smiles": "CCCC(CC(=O)OC(CC(=O)[O-])C[N+](C)(C)C)O",
+        "description": "The molecule is Glutarylcarnitine. It is an O-acyl-L-carnitine in which the acyl group is specified as glutaroyl. It has a role as a human metabolite. It derives from a glutaric acid."
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "smiles": "C1=CC(=CC=C1C(=O)CC(=O)C2=C(C=C(C=C2)O)O)O",
+        "description": "it is a beta-diketone that is acetylacetone in which a 4-hydroxyphenyl group and a 2,4-dihydroxyphenyl group replace the two methyl groups. It is a beta-diketone, a member of resorcinols, a member of dihydrochalcones and an aromatic ketone. It is a conjugate acid of a it(1-)."
+    },
+    {
+        "smiles": "C(C(=O)O)I",
+        "description": "it is a haloacetic acid that is acetic acid in which one of the hydrogens of the methyl group is replaced by an iodine atom. It has a role as an alkylating agent. It is an organoiodine compound and a haloacetic acid."
+    },
+    {
+        "smiles": "CNCCC(=O)O",
+        "description": "it is a beta-amino acid that is propionic acid in which one of the hydrogens at position 3 has been replaced by a methylamino group. It is a beta-amino acid and a secondary amino compound. It derives from a beta-alanine."
+    },
+    {
+        "smiles": "[P-3].[P-3].[Sr+2].[Sr+2].[Sr+2]",
+        "description": "it is a solid which will evolve flammable and toxic gases on contact with water. It is a highly reactive material used as a laboratory reagent and in the manufacture of chemically reactive devices."
+    },
+    {
+        "smiles": "C[N+](C)(C)CCO.C[N+](C)(C)CCO.[SH-].[SH-].S=[Mo]=S",
+        "description": "it is an orally active second generation tetrathiomolybdate analog with anti-angiogenic and antineoplastic activities. it selectively chelates the copper ion in superoxide dismutase 1 (SOD1) in endothelial cells, thereby depleting SOD1 of copper and inhibiting its activity. Inhibition of SOD1 interferes with the activation of several signal transduction pathways required for cellular proliferation and angiogenesis, including those mediated by ERK1/2 and FAK and Src kinases. This results in an inhibition of cell proliferation and angiogenesis as well as induction of apoptosis."
+    }
+]

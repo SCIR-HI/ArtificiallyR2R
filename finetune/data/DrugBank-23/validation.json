@@ -1,0 +1,22 @@
+[
+    {
+        "smiles": "C1=CC=C2C=C(C=CC2=C1)NC(=O)C(CCC(=O)O)NC(=O)C(CCC(=O)O)N",
+        "description": "The molecule is L-glutamyl-L-glutamic acid 2-naphthylamide. It is an N-2-naphthylcarboxamide obtained by formal condensation of the C-terminal carboxy group of L-glutamyl-L-glutamic acid with the amino group of 2-naphthylamine. It has a role as a chromogenic compound. It is a N-2-naphthylcarboxamide and a dipeptide."
+    },
+    {
+        "smiles": "C1CNCCNCCCNCCNC1.[Cu+2]",
+        "description": "The molecule is 1,4,8,11-Tetraazacyclotetradecanecopper2+. It is a copper coordination entity and a coronate. It contains a 1,4,8,11-tetraazacyclotetradecane."
+    },
+    {
+        "smiles": "CCCCCC1C(O1)C=CC(CC=CCC=CCCCC(=O)[O-])O",
+        "description": "The molecule is 11S-hydroxy-14S,15S-hepoxilin A31-. It is an hepoxilin anion that is the conjugate base of 11S-hydroxy-14S,15S-hepoxilin A3, arising from deprotonation of the carboxylic acid group major species at pH 7.3. It is a conjugate base of an 11S-hydroxy-14S,15S-hepoxilin A3."
+    },
+    {
+        "smiles": "[Mg++].[O-]C(=O)C1=CC(=O)NC(=O)N1.[O-]C(=O)C1=CC(=O)NC(=O)N1",
+        "description": "The molecule is a magnesium salt of orotic acid and is poorly soluble in water. It is a source of magnesium and is used as a mineral supplement to treat Mg deficiency. Orotic acid acts as a transporter that carries magnesium into the cells. It also exhibits antioxidant properties, since it is a key intermediate in the biosynthetic pathway of pyrimidines that promotes the synthesis of enzymes which act as free radical scavengers. Experiments investigating the potential cardioprotective actions of orotic acid in pathological heart conditions are still ongoing."
+    },
+    {
+        "smiles": "CCC(C)C(C(=O)NC(CC1=CN=CN1)C(=O)N2CCCC2C(=O)NC(CC3=CC=CC=C3)C(=O)NC(CC4=CN=CN4)C(=O)NC(CC(C)C)C(=O)O)NC(=O)C(CC5=CC=C(C=C5)O)NC(=O)C(C(C)C)NC(=O)C(CCCN=C(N)N)NC(=O)C(CC(=O)O)N",
+        "description": "The molecule is a ten amino acid peptide formed by renin cleavage of angiotensinogen. Angiotensin I has no direct biological function except that high levels can stimulate catecholamine production. It is metabolized to its biologically active byproduct angiotensin II, a potent vasoconstrictor, by angiotensin converting enzyme (ACE) through cleavage of the two terminal amino acids. It has a role as a neurotransmitter agent and a human metabolite. It is a tautomer of an angiotensin I dizwitterion."
+    }
+]

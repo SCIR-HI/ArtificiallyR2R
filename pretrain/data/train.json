@@ -1,0 +1,26 @@
+[
+    {
+        "smiles": "CCSC1=NN=C(S1)SCC(=O)NC2=NOC(=C2)C", 
+        "description": "The given SMILES formula represents a compound that is a thiosemicarbazone derivative. This molecule contains a pyrimidine ring with a thiosemicarbazone group attached to one of the nitrogen atoms. It also has a carboxamide group and a nitroso-oxazolidinone moiety. The compound has been studied for its potential use as an antiviral and antitumor agent. It works by inhibiting the activity of ribonucleotide reductase, an enzyme that is necessary for DNA synthesis. This drug's unique structure makes it a promising candidate for further drug development and research."
+    },
+    {
+        "smiles": "CC(=O)C1=CC(=CC=C1)OCC(CN2CCN(CC2)C3=CC=CC=C3)O", 
+        "description": "\"The molecule is a member of the class of N-aryloxyalkylamines that is 2-(2-hydroxyethoxy)-3-phenylpropanoic acid 2-(2-(4-(2-(2-oxopyrrolidin-1-yl)ethyl)piperazin-1-yl)ethoxy)ethyl ester. It is a centrally acting antihypertensive drug that acts by inhibiting the angiotensin-converting enzyme (ACE) and preventing the conversion of angiotensin I to angiotensin II. It is also used to treat heart failure and diabetic nephropathy. It is a prodrug that is rapidly converted in the liver to its active form, which has a longer half-life than the prodrug. It is a carboxylic acid ester, an N-alkylpiperazine, and a phenylpropanoic acid.\""
+    },
+    {
+        "smiles": "CCOC1=C(C=C(C=C1Cl)C=NN2C(=O)C3=CC=CC=C3NC2=O)OC", 
+        "description": "The given SMILES formula represents a drug that is an organic heterocyclic compound. It is a Cl-substituted aryl amide, which acts as an inhibitor of certain enzymes and receptors. The compound contains a pyridine ring and an imide moiety, with a chloro-substituted benzene ring attached to it. The drug is soluble in organic solvents and has a melting point of approximately 120°C. It may be used in the treatment of cancer and other diseases by inhibiting specific protein targets."
+    },
+    {
+        "smiles": "COC(=O)C1=CC2=CC(=O)C(=CC2=CN1)O.Cl", 
+        "description": "The molecule is a chlorinated benzamide derivative that consists of a benzene ring fused to a pyridine ring. It is a prodrug, being rapidly metabolized in vivo to the active metabolite, a non-selective monoamine oxidase inhibitor. Additionally, the molecule has been shown to exhibit anticonvulsant, antidepressant, and anxiolytic properties. It is commonly used as a medication in the treatment of depression and anxiety disorders. It is an aromatic ether, a member of amides, a pyridinecarboxylic acid, and a chlorine atom."
+    },
+    {
+        "smiles": "C1=CC(=C(C=C1Cl)Cl)OCC(=O)NCCCCCCNC(=O)COC2=C(C=C(C=C2)Cl)Cl", 
+        "description": "Description: \"The molecule is a potent and selective serotonin and norepinephrine reuptake inhibitor (SNRI) used as an antidepressant and anxiolytic. It is indicated for the treatment of major depressive disorder (MDD), generalized anxiety disorder (GAD), social anxiety disorder (SAD), panic disorder (PD), and chronic pain. The drug works by inhibiting the reuptake of serotonin and norepinephrine, leading to increased levels of these neurotransmitters in the brain. The molecule is a white to off-white crystalline powder, and is administered orally in the form of extended-release capsules. The drug has a long half-life of approximately 15 hours, which allows for once-daily dosing. Common side effects of the drug include nausea, dry mouth, constipation, decreased appetite, dizziness, insomnia, and sweating. The drug may also cause sexual dysfunction and weight gain. The molecule is contraindicated in patients taking monoamine oxidase inhibitors (MAOIs) or other drugs that increase serotonin levels, as it may cause serotonin syndrome, a potentially life-threatening condition. The drug is also not recommended for use in patients with a history of seizures or in those with hepatic impairment. The drug has been shown to be effective in treating a variety of psychiatric and pain disorders, and is considered a valuable addition to the treatment options available for these conditions.\""
+    },
+    {
+        "smiles": "COC1=CC=C(C=C1)NC(=S)NC2=CC=CC=C2C(=O)NCC3=CC=CC=C3", 
+        "description": "Description: The SMILES formula corresponds to a molecule that belongs to the class of sulfonamide drugs. It contains a benzene ring substituted with a methoxy group and a primary amide linked to a thioamide group. The molecule also has a second benzene ring substituted with a carboxylic acid amide and a tertiary amine linked to a carbonyl group. This molecule is likely a potent inhibitor of carbonic anhydrases, an enzyme that catalyzes the reversible hydration of carbon dioxide and is involved in many physiological processes. The molecule may have potential therapeutic applications in conditions such as glaucoma, epilepsy, and cancer."
+    }
+]
