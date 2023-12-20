@@ -73,3 +73,14 @@ For testing, execute `./test.sh`, ensuring the path to the fine-tuned model weig
 ### Generation settings
 
 During validation and test, we use `T5ForConditionalGeneration.generate()` function to generate outputs. For generation config, we **only** specify `num_beams=1` and `max_new_tokens=512`. All other parameters keeps empty and depends on the default value of `generate()` function in [transformers(version 4.31.0)](https://huggingface.co/docs/transformers/v4.31.0/en/index).
+
+### Citation
+If you found our work useful, please cite:
+```bibtex
+@article{chen2023artificially,
+  title={From Artificially Real to Real: Leveraging Pseudo Data from Large Language Models for Low-Resource Molecule Discovery},
+  author={Chen, Yuhan and Xi, Nuwa and Du, Yanrui and Wang, Haochun and Jianyu, Chen and Zhao, Sendong and Qin, Bing},
+  journal={arXiv preprint arXiv:2309.05203},
+  year={2023}
+}
+```
